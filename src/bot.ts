@@ -1,4 +1,4 @@
-import { OpenAIService } from './services/openai';
+import { OpenAIService } from './services/ai';
 import { TwitterService } from './services/twitter';
 import { config } from './config';
 
