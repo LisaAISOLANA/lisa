@@ -1,5 +1,9 @@
 # AI Travel Twitter Bot
 
+![AI Travel Twitter Bot](./assets/preview.png)
+
+*Example of generated tweet with AI image*
+
 An automated Twitter bot that generates and posts travel-related content using OpenAI's GPT-3.5 and DALL-E 3 APIs.
 
 ## Features
